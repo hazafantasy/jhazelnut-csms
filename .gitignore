@@ -28,3 +28,7 @@ node_modules
 
 # Ignore .idea directory
 .idea
+
+# Ignore gradle and build project
+.gradle
+build

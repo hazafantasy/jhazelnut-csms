@@ -16,7 +16,7 @@ If making changes to the Front-End in angular2FrontEnd/src/
 Then you need to recompile everything using angular-cli, Inside **angular2FrontEnd/**
 directory run:
     
-    npm instal
+    npm install
     ng build
 
 The last commands will do: Install angular/node modules, compile and deploy
